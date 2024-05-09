@@ -1,34 +1,3 @@
-로그인 화면, 목표 양 입력, 칼로리 포함 식사 도움말, 로그아웃 기능 
-추가해야 될 기능 : 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 import tkinter as tk
 from tkinter import messagebox, simpledialog, Toplevel, Label
