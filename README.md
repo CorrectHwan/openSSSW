@@ -206,7 +206,10 @@ class HelpWindow:
                     "- 식사 추가: '추가' 버튼을 클릭하여 식사를 추가합니다.\n" \
                     "- 식사 삭제: 목록에서 식사를 선택 후 '삭제' 버튼을 클릭합니다.\n" \
                     "- 영양 정보 입력: 각 식사의 영양 정보를 입력할 수 있습니다.\n" \
-                    "\n프로그램을 사용해 주셔서 감사합니다!"
+                    "\n프로그램을 사용해 주셔서 감사합니다!"\
+                    "\n\nProgram ver.1.02"\
+                    "\nmade by JeongJeongHwan"
+
         self.label = tk.Label(self.window, text=help_text, justify=tk.LEFT)
         self.label.pack(padx=10, pady=10)
 
